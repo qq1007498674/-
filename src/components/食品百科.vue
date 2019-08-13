@@ -3,7 +3,7 @@
     <div class="test">
         <div class="yuanquan">
             <span style=""><a style class="el-icon-arrow-left"></a></span>
-            <span style="margin-top:8%"><a>丨</a></span>
+            <span style="margin-top:8%"><a>1234丨123</a></span>
             <span><a style class="el-icon-s-operation"></a></span>
         </div>
         <img calss="img" 
